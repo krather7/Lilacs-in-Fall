@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"battlerName":"Actor0_1","characterIndex":0,"characterName":"Actor0","classId":1,"equips":[2,0,2,3],"faceIndex":0,"faceName":"Actor0","traits":[{"code":51,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Seltus","nickname":"","note":"","profile":"Uses a sword! Uses a bow! Uses magic swords!"},
+{"id":2,"battlerName":"Actor0_2","characterIndex":1,"characterName":"Actor0","classId":2,"equips":[44,39,21,0],"faceIndex":1,"faceName":"Actor0","traits":[{"code":51,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Yasnu","nickname":"","note":"","profile":"Uses a cane! Uses a wand!"},
+{"id":3,"battlerName":"Actor0_3","characterIndex":2,"characterName":"Actor0","classId":3,"equips":[71,0,0,0,0],"faceIndex":2,"faceName":"Actor0","traits":[{"code":51,"dataId":3,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Crysvia","nickname":"","note":"","profile":"Uses a dagger! Uses a sword! Uses a magic sword!"},
+{"id":4,"battlerName":"Actor0_4","characterIndex":3,"characterName":"Actor0","classId":4,"equips":[13,39,23,0],"faceIndex":3,"faceName":"Actor0","traits":[{"code":51,"dataId":4,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Sasha","nickname":"","note":"","profile":"Uses a big hammer! Uses a cane!"},
+{"id":5,"battlerName":"Actor0_5","characterIndex":4,"characterName":"Actor0","classId":5,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Actor0","traits":[{"code":51,"dataId":5,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Elvanya","nickname":"","note":"","profile":"Uses a wand! Uses magic swords!"},
+{"id":6,"battlerName":"Actor0_6","characterIndex":5,"characterName":"Actor0","classId":6,"equips":[64,0,0,0,0],"faceIndex":5,"faceName":"Actor0","traits":[{"code":51,"dataId":6,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Silvan","nickname":"","note":"","profile":"Uses a bow! Uses a dagger!"},
+{"id":7,"battlerName":"Actor0_7","characterIndex":6,"characterName":"Actor0","classId":7,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"Actor0","traits":[{"code":51,"dataId":7,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Kosh","nickname":"","note":"","profile":"Uses an axe! Uses a big hammer!"}
+]
