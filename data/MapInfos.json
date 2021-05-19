@@ -7,7 +7,7 @@ null,
 {"id":5,"expanded":false,"name":"Thievery Skill Test","order":6,"parentId":1,"scrollX":1129.5,"scrollY":627.5},
 {"id":6,"expanded":false,"name":"Survival Test","order":2,"parentId":1,"scrollX":1129.5,"scrollY":627.5},
 {"id":7,"expanded":false,"name":"Crafting Skill Test","order":7,"parentId":1,"scrollX":1129.5,"scrollY":627.5},
-{"id":8,"expanded":true,"name":"Sacred Grove Entrance","order":8,"parentId":0,"scrollX":1131,"scrollY":640},
+{"id":8,"expanded":true,"name":"Sacred Grove Entrance","order":8,"parentId":0,"scrollX":771,"scrollY":563},
 {"id":9,"expanded":false,"name":"Forest2","order":9,"parentId":8,"scrollX":771,"scrollY":563},
 {"id":10,"expanded":false,"name":"Leshy Forest","order":17,"parentId":0,"scrollX":949,"scrollY":822},
 {"id":11,"expanded":false,"name":"Forest3","order":10,"parentId":8,"scrollX":771,"scrollY":563},
@@ -24,5 +24,5 @@ null,
 {"id":22,"expanded":false,"name":"MAP022","order":22,"parentId":19,"scrollX":0,"scrollY":0},
 {"id":23,"expanded":false,"name":"MAP023","order":23,"parentId":19,"scrollX":0,"scrollY":0},
 {"id":24,"expanded":false,"name":"MAP024","order":24,"parentId":19,"scrollX":0,"scrollY":0},
-{"id":25,"expanded":false,"name":"Starting Screen","order":25,"parentId":0,"scrollX":0,"scrollY":0}
+{"id":25,"expanded":false,"name":"Starting Screen","order":25,"parentId":0,"scrollX":771,"scrollY":563}
 ]
